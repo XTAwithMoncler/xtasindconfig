@@ -4,3 +4,4 @@ This changes the boot animation and eject LED's to match a XTA moddifed console
 Please note! This config is for iND-BiOS 5003.67
 The boot LED is set to RED
 The iND background is set to BLACK
+If you use this file you will need to set your own dashboard paths
